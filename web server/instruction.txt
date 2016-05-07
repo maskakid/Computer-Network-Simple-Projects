@@ -1,0 +1,9 @@
+1. open your bash shell
+2. cd home/your home name/file location/
+3. python webserver.py
+4. you'l see the socket is listening
+5. now tyoe http://localhost:8080/home/abnormal/Desktop/project/pythonsock/index.html
+6. now jump back to your bash shell and you'll see the web get, post ,put requests being processed there, 
+
+
+DO NOT DELETE ANY CONTENT OF THIS FOLDER ,OTHERWISE I AM NOT RESPONSIBLE FOR YOUR WEBSERVER's MISBEHAVIOUR
